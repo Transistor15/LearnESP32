@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+C:/LearnESP32/ESP-IDF_logging/build/CMakeFiles/mconf-idf
+C:/LearnESP32/ESP-IDF_logging/build/CMakeFiles/mconf-idf.rule
+C:/LearnESP32/ESP-IDF_logging/build/CMakeFiles/mconf-idf-complete.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+C:/LearnESP32/ESP-IDF_logging/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
